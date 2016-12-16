@@ -1,10 +1,10 @@
 # MAD III- Project
 
-## Logistic regression using stochastic gradient descent - using Python
+## Logistic regression using stochastic gradient descent - implemented Python
 
 
 ### Experiments
-**Ddataset:** pima-indians-diabetes with 768 instances
+**Dataset:** pima-indians-diabetes with 768 instances
 
 **Validation used**: Percentage split - in the tests used as 66%
 
@@ -13,8 +13,7 @@
 Dataset pima-indians-diabetes.csv loaded. Number of Instances: 768 Loading dataset took: 0.0089s
 Splitting the dataset by 66.0%
 Creating the model took: 1.7120s
-Coefficients:  [-7.582051426755043, 1.854301929346409, 7.193768376521267, -1.70601044011557, -0.5132182256460746,
- 0.3630667567006922, 4.938894187944461, 3.0229812111891645, 0.7150993199638532]
+Coefficients:  [-7.582051426755043, 1.854301929346409, 7.193768376521267, -1.70601044011557, -0.5132182256460746, 0.3630667567006922, 4.938894187944461, 3.0229812111891645, 0.7150993199638532]
 Correct predictions: 201, incorrect: 60, accuracy: 77.011%
 Analyzing dataset took: 0.0034s
 Total time to analyze: 1.7155s
