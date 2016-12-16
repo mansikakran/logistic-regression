@@ -1,6 +1,6 @@
 # MAD III- Project
 
-## Logistic regression using stochastic gradient descent - implemented Python
+## Logistic regression using stochastic gradient descent - implemented in Python
 
 
 ### Experiments
@@ -58,3 +58,6 @@ Total accuracy in 10 runs: 76.782%
 - http://sebastianruder.com/optimizing-gradient-descent/index.html#stochasticgradientdescent
 - http://stats.stackexchange.com/questions/189652/is-it-a-good-practice-to-always-scale-normalize-data-for-machine-learning
 
+##### Performance measured on:
+- i5-2410M CPU @ 2.30GHz
+- Python 3.5.0
